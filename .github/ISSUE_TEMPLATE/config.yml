@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Disflow Community Discord
+    url: https://disflow.io/discord
+    about: Ask questions and discuss the roadmap here.
+  - name: Disflow Feedback
+    url: https://github.com/dsiflow/feedback/discussions
+    about: Share your feedback with the Disflow team.
